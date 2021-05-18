@@ -1,0 +1,530 @@
+Last login: Mon May 17 17:25:48 on ttys000
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Marias-MBP:~ mariamarques$ clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marias-MBP:~ mariamarques$ pwd
+/Users/mariamarques
+Marias-MBP:~ mariamarques$ ls
+Applications		Library			Public
+Desktop			Movies			PycharmProjects
+Documents		Music			jobeasy-git-training
+Downloads		Pictures		objc.scan
+Marias-MBP:~ mariamarques$ cd Desktop
+Marias-MBP:Desktop mariamarques$ ls
+151 math.docx
+2C687A99-9A4F-4DCC-9F3D-93AAF4834458_1_105_c.jpeg
+3.1 lab.jpg
+69DEE8AF-9F28-41BF-86DC-03A8BFE2DFA4_1_105_c.jpeg
+916BA6E4-B54C-4EDE-8BB5-B31DBA7DA4FD.jpeg
+Angola.doc
+Angola.txt
+Angola2.docm
+Angola2.fld
+Angola2.html
+Annandale College Transfer Fair.docx
+Are Americans ready for a woman president..docx
+CHECKPOINT EXECISES.docx
+CHECKPOINT EXERCISES CHAPTER 9.1.docx
+Career Research Chart.rtf
+Career Research List.docx
+Career Research List.rtf
+Course Progress financial wellness.docx
+Cybersecurity
+E-gree task - Google Docs.webarchive
+Exercise 1.docx
+Exploratory essay - Are Americans ready.docx
+Focus Career portufolio.webarchive
+Focus Career.webarchive
+Food-Svcs-Consent-to-Share-Information-English_0.pdf
+Genderless.docx
+HOMEWORK ASSIGNMENT APPENDIX A(1).docx
+IMG-6016.PNG
+IMG_0305.jpeg
+IMG_1170.jpeg
+Image LinkdIn.jpg
+Jobeasy
+Learning Styles.rtf
+M Marques E-gree test cases (Do not change) - Google Sheets.webarchive
+M Marques Homework December - Google Sheets.webarchive
+MLA Worksheet.docx
+Maria M December homework - Google Sheets.webarchive
+Maria Marques (2)-2.docx
+Maria Marques (2).docx - Google Docs.webarchive
+Maria Marques.docx
+MealSummaryReport.doc
+NUMERATION SYSTEMS FALL 2016  AUGUST 30(2)2.docx
+PRR5.docx
+REcup
+RR6.docx
+Relocated Items
+Relocated Items.nosync
+Resume
+Returning to Southie.docx
+SDV 11:13.rtf
+Safari Bookmarks.html
+Screen Shot 2020-12-08 at 11.44.36 PM.png
+Screen Shot 2020-12-12 at 2.24.20 AM.png
+Screen Shot 2021-01-19 at 10.41.03 AM.png
+Screen Shot 2021-01-19 at 10.41.21 AM.png
+Screen Shot 2021-01-19 at 10.41.41 AM.png
+Screen Shot 2021-01-19 at 10.41.55 AM.png
+Screen Shot 2021-01-19 at 10.42.17 AM.png
+Screen Shot 2021-02-28 at 10.26.16 PM.png
+Screen Shot 2021-02-28 at 10.26.26 PM.png
+Screen Shot 2021-02-28 at 10.27.20 PM.png
+Screen Shot 2021-03-31 at 10.01.49 PM.png
+Screen Shot 2021-03-31 at 9.54.54 PM.png
+Stress is what people feel when they are worried or uncomfortable about something.docx
+Test
+Transferencia
+Transferencia Escola
+UC-ee3bd197-1da6-4cd5-900b-af410e96d670.jpg
+Udemy Course Completion Certificate | Udemy.webarchive
+WELCOME TO BEST BUY.docx
+What are the four basic operations in mathematics.docx
+algoritmo_programacao.pdf
+bug.png
+bug2.jpg
+certificate.pdf
+chapter 4.3.docx
+contract.pdf
+desabities.docx
+farm.pdf
+food truck.docx
+geometry project chap. 9.docx
+modern technology and childhood.docx
+outline oct 6.docx
+peer review argumentative essay..docx
+summart wallace.docx
+task #2.webarchive
+testing.jpg
+udemy certificate.jpg
+untitled folder
+weak minded people..docx
+~$nandale College Transfer Fair.docx
+Marias-MBP:Desktop mariamarques$ ls
+151 math.docx
+2C687A99-9A4F-4DCC-9F3D-93AAF4834458_1_105_c.jpeg
+3.1 lab.jpg
+69DEE8AF-9F28-41BF-86DC-03A8BFE2DFA4_1_105_c.jpeg
+916BA6E4-B54C-4EDE-8BB5-B31DBA7DA4FD.jpeg
+Angola.doc
+Angola.txt
+Angola2.docm
+Angola2.fld
+Angola2.html
+Annandale College Transfer Fair.docx
+Are Americans ready for a woman president..docx
+CHECKPOINT EXECISES.docx
+CHECKPOINT EXERCISES CHAPTER 9.1.docx
+Career Research Chart.rtf
+Career Research List.docx
+Career Research List.rtf
+Course Progress financial wellness.docx
+Cybersecurity
+E-gree task - Google Docs.webarchive
+Exercise 1.docx
+Exploratory essay - Are Americans ready.docx
+Focus Career portufolio.webarchive
+Focus Career.webarchive
+Food-Svcs-Consent-to-Share-Information-English_0.pdf
+Genderless.docx
+HOMEWORK ASSIGNMENT APPENDIX A(1).docx
+IMG-6016.PNG
+IMG_0305.jpeg
+IMG_1170.jpeg
+Image LinkdIn.jpg
+Jobeasy
+Learning Styles.rtf
+M Marques E-gree test cases (Do not change) - Google Sheets.webarchive
+M Marques Homework December - Google Sheets.webarchive
+MLA Worksheet.docx
+Maria M December homework - Google Sheets.webarchive
+Maria Marques (2)-2.docx
+Maria Marques (2).docx - Google Docs.webarchive
+Maria Marques.docx
+MealSummaryReport.doc
+NUMERATION SYSTEMS FALL 2016  AUGUST 30(2)2.docx
+PRR5.docx
+REcup
+RR6.docx
+Relocated Items
+Relocated Items.nosync
+Resume
+Returning to Southie.docx
+SDV 11:13.rtf
+Safari Bookmarks.html
+Screen Shot 2020-12-08 at 11.44.36 PM.png
+Screen Shot 2020-12-12 at 2.24.20 AM.png
+Screen Shot 2021-01-19 at 10.41.03 AM.png
+Screen Shot 2021-01-19 at 10.41.21 AM.png
+Screen Shot 2021-01-19 at 10.41.41 AM.png
+Screen Shot 2021-01-19 at 10.41.55 AM.png
+Screen Shot 2021-01-19 at 10.42.17 AM.png
+Screen Shot 2021-02-28 at 10.26.16 PM.png
+Screen Shot 2021-02-28 at 10.26.26 PM.png
+Screen Shot 2021-02-28 at 10.27.20 PM.png
+Screen Shot 2021-03-31 at 10.01.49 PM.png
+Screen Shot 2021-03-31 at 9.54.54 PM.png
+Stress is what people feel when they are worried or uncomfortable about something.docx
+Test
+Transferencia
+Transferencia Escola
+UC-ee3bd197-1da6-4cd5-900b-af410e96d670.jpg
+Udemy Course Completion Certificate | Udemy.webarchive
+WELCOME TO BEST BUY.docx
+What are the four basic operations in mathematics.docx
+algoritmo_programacao.pdf
+bug.png
+bug2.jpg
+certificate.pdf
+chapter 4.3.docx
+contract.pdf
+desabities.docx
+farm.pdf
+food truck.docx
+geometry project chap. 9.docx
+modern technology and childhood.docx
+outline oct 6.docx
+peer review argumentative essay..docx
+summart wallace.docx
+task #2.webarchive
+testing.jpg
+udemy certificate.jpg
+untitled folder
+weak minded people..docx
+~$nandale College Transfer Fair.docx
+Marias-MBP:Desktop mariamarques$ clear
+
+Marias-MBP:Desktop mariamarques$ cd jobeasy
+Marias-MBP:jobeasy mariamarques$ git clone https://github.com/MM-80/jobeasy-git-training.git
+Cloning into 'jobeasy-git-training'...
+remote: Enumerating objects: 4, done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 4
+Receiving objects: 100% (4/4), done.
+Marias-MBP:jobeasy mariamarques$ ls
+jobeasy-git-training
+Marias-MBP:jobeasy mariamarques$ cd jobeasy-git-training
+Marias-MBP:jobeasy-git-training mariamarques$ ls
+README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ cd jobeasy-git-training/
+-bash: cd: jobeasy-git-training/: No such file or directory
+Marias-MBP:jobeasy-git-training mariamarques$ cd 
+Marias-MBP:~ mariamarques$ cd Desktop
+Marias-MBP:Desktop mariamarques$ cd jobeasy
+Marias-MBP:jobeasy mariamarques$ cd jobeasy-git-training
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				README.md
+..				basic_console_commands.txt
+.git
+Marias-MBP:jobeasy-git-training mariamarques$ clear
+
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				..				.git				README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ cat basic_console_commands.txt
+Basic command line commands
+pwd – print working directory, to see where you are, if you create file it will appear in that directory
+ls -a – list all files, including hidden in current directory
+mkdir newFolder – to create folder
+cd newFolder – to change directory
+touch fileName – create file
+nano – text editor
+echo “Your text” > yourfilename.txt – will create text file with provided text
+rm – remove file
+Marias-MBP:jobeasy-git-training mariamarques$ mkdir NewFolder
+Marias-MBP:jobeasy-git-training mariamarques$ ls
+NewFolder			README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ rmv NewFolder
+-bash: rmv: command not found
+Marias-MBP:jobeasy-git-training mariamarques$ remove NewFolder
+-bash: remove: command not found
+Marias-MBP:jobeasy-git-training mariamarques$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marias-MBP:jobeasy-git-training mariamarques$ 
+Marias-MBP:jobeasy-git-training mariamarques$ ls
+README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ 
+Marias-MBP:jobeasy-git-training mariamarques$ clear
+
+Marias-MBP:jobeasy-git-training mariamarques$ mkdir sabina
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a 
+.				.git				basic_console_commands.txt
+..				README.md			sabina
+Marias-MBP:jobeasy-git-training mariamarques$ mkdir newfolder
+Marias-MBP:jobeasy-git-training mariamarques$ ls
+README.md			basic_console_commands.txt	newfolder			sabina
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				.git				basic_console_commands.txt	sabina
+..				README.md			newfolder
+Marias-MBP:jobeasy-git-training mariamarques$ cd sabina
+Marias-MBP:sabina mariamarques$ cd newfolder
+-bash: cd: newfolder: No such file or directory
+Marias-MBP:sabina mariamarques$ cd jobeasy-git-training
+-bash: cd: jobeasy-git-training: No such file or directory
+Marias-MBP:sabina mariamarques$ cd
+Marias-MBP:~ mariamarques$ cd jobeasy-git-training
+Marias-MBP:jobeasy-git-training mariamarques$ cd newfolder
+-bash: cd: newfolder: No such file or directory
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				..				.git				README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ ls
+README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marias-MBP:jobeasy-git-training mariamarques$ clear
+
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				..				.git				README.md			basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ cd
+Marias-MBP:~ mariamarques$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marias-MBP:~ mariamarques$ claer
+-bash: claer: command not found
+Marias-MBP:~ mariamarques$ clear
+
+Marias-MBP:~ mariamarques$ cd Desktop
+Marias-MBP:Desktop mariamarques$ cd jobeasy
+Marias-MBP:jobeasy mariamarques$ ls
+jobeasy-git-training
+Marias-MBP:jobeasy mariamarques$ cd jobeasy-git-training
+Marias-MBP:jobeasy-git-training mariamarques$ mkdir sabina
+Marias-MBP:jobeasy-git-training mariamarques$ ls -a
+.				.DS_Store			README.md			sabina
+..				.git				basic_console_commands.txt
+Marias-MBP:jobeasy-git-training mariamarques$ pwd
+/Users/mariamarques/Desktop/jobeasy/jobeasy-git-training
+Marias-MBP:jobeasy-git-training mariamarques$ touch help.txt
+Marias-MBP:jobeasy-git-training mariamarques$ nano help.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6                                                File: help.txt                                                                                             Modified  
+
+This is Maria  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  [ Read 0 lines ]
+^G Get Help                   ^O WriteOut                   ^R Read File                  ^Y Prev Page                  ^K Cut Text                   ^C Cur Pos
+^X Exit                       ^J Justify                    ^W Where Is                   ^V Next Page                  ^U UnCut Text                 ^T To Spell
